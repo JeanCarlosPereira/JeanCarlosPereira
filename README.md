@@ -61,7 +61,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.linkedin.com/in/feed/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-pereira-235338263/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](scjc021211@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/SilviaAvelar)
+[![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/Jean-Pereira)
  
 </div>
 
