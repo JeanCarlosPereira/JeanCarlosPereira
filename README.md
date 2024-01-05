@@ -59,7 +59,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-&logo=whatsapp&logoColor=white)](https://wa.me/message/F62qtdz5nh7cg1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.linkedin.com/in/feed/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-avelar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jean-Pereira)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](scjc021211@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/SilviaAvelar)
  
