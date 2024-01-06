@@ -58,7 +58,7 @@
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-&logo=whatsapp&logoColor=white)](https://wa.me/message/F62qtdz5nh7cg1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram/jean_minha_arte)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jean_minha_arte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-pereira-235338263/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](jean.cp@yahoo.com)
 [![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/Jean-Pereira)
