@@ -1,4 +1,16 @@
 <!-- **************************************************************** Jean Pereira **************************************************************** -->
+
+  
+<p align="center">
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+       <a href="http://jrohit.com.np" target="_blank">
+      <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+  </a>
+  
+
+
+
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
 
 <p align="center">
@@ -65,18 +77,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
+
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/getintorj/count.svg"/>
+  <img src="https://profile-counter.glitch.me/jeancarlospereira/count.svg"/>
   </p>
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getintorj&theme=gotham&layout=compact"width="47%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancarlospereira&theme=gotham&layout=compact"width="47%"/> 
 </p>
 
 <p align="center">
-<a href="https://github.com/getintorj?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=getintorj&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Getintorj's github-readme-stats"/></a>
-<a href="https://github.com/getintorj?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=getintorj&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/jeancarlospereira?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jeancarlospereira&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jeancarlospereira github-readme-stats"/></a>
+<a href="https://github.com/jeancarlospereira?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jeancarlospereira&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@ github-readme-streak-stats"/></a>
 </p>
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
+
 
