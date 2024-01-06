@@ -1,10 +1,11 @@
+
 <!-- **************************************************************** Jean Pereira **************************************************************** -->
 
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&duration=4000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Quality+Assurance..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Quality+Assurance..." />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
@@ -84,5 +85,39 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
+
+<details>
+  <summary>Hobbies</summary>
+
+  🌏 Colecionar
+  📚 Estudar
+  🎨 Desenhar e Pintar
+  🎧 Ouvir Musicas
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
+
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&duration=5000&color=00BFFF&center=true&width=700&lines=OBRIGADO POR VISITAR O MEU PERFIL" alt="Typing SVG" /></a></h3>
+
+
+
+<hr />
+<div align="center">
+  <i>"Nunca deixe que alguém lhe diga, você não pode fazer algo! <br><b>Você tem um sonho... Você tem que protegê-lo</b>.<br> As pessoas não podem fazer algo sozinhas, elas querem dizer que você não pode fazer isso. <br><b>Se você quer algo, vá buscá-lo. Period</b>"</i>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
