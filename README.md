@@ -60,7 +60,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-&logo=whatsapp&logoColor=white)](https://wa.me/message/F62qtdz5nh7cg1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jean_minha_arte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-pereira-235338263/)
- <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Yahoo](https://img.shields.io/badge/Yahoo-%23ea4335.svg?logo=Yahoo&logoColor=white)](jean.cp@yahoo.com)
 [![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/Jean-Pereira)
  
 </div>
