@@ -2,7 +2,7 @@
 <!-- **************************************************************** Jean Pereira **************************************************************** -->
 
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&duration=4000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&duration=8000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Quality+Assurance..." />
