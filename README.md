@@ -106,6 +106,8 @@
 Como Reportar um Bug: Organograma ilustrativo<br><br>
 <img src="https://github.com/JeanCarlosPereira/JeanCarlosPereira/blob/main/Organog_Report_bug.jpeg"><br><br><br><br>
 
+<img src="https://github.com/JeanCarlosPereira/JeanCarlosPereira/issues/2"><br><br><br><br>
+
 <details>
   <summary>Hobbies</summary>
 
