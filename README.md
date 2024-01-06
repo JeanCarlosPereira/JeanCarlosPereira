@@ -84,6 +84,22 @@
 </p>
 
 
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeancarlospereira&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+
+
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 <details>
@@ -105,9 +121,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&duration=3000&color=00BFFF&center=true&width=700&lines=OBRIGADO POR VISITAR O MEU PERFIL" alt="Typing SVG" /></a></h3>
 
 
+<div align="center">
+
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 
 
