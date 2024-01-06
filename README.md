@@ -57,9 +57,9 @@
 <table align="center">
 <div align="center">
 
- <a href="https://instagram.com/jean_minha_arte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-Jean_Minha_Arte-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/jean_minha_arte" target="_blank"><img src="https://img.shields.io/badge/-Instagram: Jean__Minha__Arte-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-pereira-235338263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:jean.cp@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
+ <a href = "mailto:jean.cp@yahoo.com"><img src="https://img.shields.io/badge/-Contacto: jean.cp@yahoo.com-%23E4405F?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 
 </div>
 
