@@ -1,15 +1,5 @@
 <!-- **************************************************************** Jean Pereira **************************************************************** -->
 
-  
-<p align="center">
- 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-       <a href="http://jrohit.com.np" target="_blank">
-      <img alt="http://readme-typing-svg.demolab.com" width="170" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-  </a>
-  
-
-
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
 
