@@ -58,8 +58,8 @@
 <div align="center">
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-&logo=whatsapp&logoColor=white)](https://wa.me/message/F62qtdz5nh7cg1)
- <a href="(https://instagram.com/jean_minha_arte)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="(https://www.linkedin.com/in/jean-pereira-235338263/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://instagram.com/jean_minha_arte" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jean-pereira-235338263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:jean.cp@yahoo.com"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
 [![Telegram](https://img.shields.io/badge/Telegram-&logo=telegram&logoColor=white)](https://telegram.com/Jean-Pereira)
  
