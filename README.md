@@ -106,6 +106,14 @@ Organograma ilustrativo Sobre Selenium<br><br>
 
 <img src="https://github.com/JeanCarlosPereira/JeanCarlosPereira/blob/main/Organ_Selenium.jpg"><br><br><br><br>
 
+<p align="center">
+Organograma: Cypress<br><br>
+<img src="https://github.com/JeanCarlosPereira/JeanCarlosPereira/blob/main/WhatsApp%20Image%202024-01-07%20at%2001.29.52.jpeg"><br><br><br><br>
+<p align="center">
+
+
+
+
 <details>
   <summary>Hobbies</summary>
 
