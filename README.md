@@ -1,13 +1,8 @@
+<p align="center">
+<img src="https://github.com/JeanCarlosPereira/JeanCarlosPereira/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.jpg"><br><br><br><br>
+<p align="center">
 
 <!-- **************************************************************** Jean Pereira **************************************************************** -->
-
-
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=0&duration=8000&color=00BFFF&center=true&width=700&lines=Jean Pereira" alt="Typing SVG" /></a></h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&color=Fira&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Quality+Assurance..." />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br><br><br>
 
 <!-- **************************************************************** LINGUAGENS **************************************************************** -->
 
